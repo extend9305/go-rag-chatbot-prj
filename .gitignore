@@ -1,0 +1,39 @@
+# 환경 변수 파일들
+.env
+.env.local
+local.env
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go workspace
+go.work
+go.work.sum
+
+# 빌드 결과물
+bin/
+dist/
+build/
+
+# 로그 파일
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 임시 파일
+*.tmp
+*.swp
+*~
